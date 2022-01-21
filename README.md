@@ -1,3 +1,6 @@
 # abhitej-bokka.github.io
 
-Check out this Website!
+Here's the link to the website:
+https://abhitej-bokka.github.io/
+
+Go check it out!
